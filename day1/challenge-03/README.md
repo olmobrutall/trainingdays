@@ -6,7 +6,7 @@
 - Recover a file
 
 ## Starting point ##  
-In case you need a vm to backup - **Click** on the 
+In case you need a vm to backup - **Ctrl+Click** on the 
 <a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fazuredevcollege%2Ftrainingdays%2Fmaster%2Fday1%2Fchallenge-03%2Fchallengestart%2Fchallengestart.json"><img src="./challengestart/deploytoazure.png"/></a>
 button. 
 
